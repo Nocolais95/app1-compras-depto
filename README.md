@@ -1,7 +1,6 @@
 # TODOLIST APP
 
-A new Flutter project.
-
+App para tener registro de las cosas que compramos antes de irnos a vivir solos, esta pensada para agregar ambientes de una casa o depto
 ## Getting Started
 
 This project is a starting point for a Flutter application.
